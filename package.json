@@ -1,0 +1,24 @@
+{
+  "name": "webrtc-demo",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.0.5"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "ffmpeg-stream": "^0.7.0",
+    "firebase": "^8.2.10",
+    "fluent-ffmpeg": "^2.1.2",
+    "node-ffmpeg-stream": "^1.1.0",
+    "socket.io": "^4.7.4",
+    "tail": "^2.2.6",
+    "webrtc-adapter": "^8.2.3",
+    "wrtc": "^0.4.7",
+    "wrtc-to-ffmpeg": "^0.0.0"
+  }
+}
